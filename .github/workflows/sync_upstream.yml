@@ -1,0 +1,52 @@
+name: Sync Fork with Upstream
+
+# Keeps this fork's `dev` branch (and therefore README.md) up to date with
+# new postings added to SimplifyJobs/New-Grad-Positions, without needing to
+# manually click "Sync fork" on GitHub.
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    if: github.repository != 'SimplifyJobs/New-Grad-Positions'
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          ref: dev
+          fetch-depth: 0
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/SimplifyJobs/New-Grad-Positions.git
+
+      - name: Fetch upstream
+        run: git fetch upstream dev
+
+      - name: Merge upstream changes
+        run: |
+          if git merge-base --is-ancestor dev upstream/dev; then
+            echo "Fast-forwarding to upstream/dev"
+            git merge --ff-only upstream/dev
+          else
+            echo "Local dev has diverged from upstream; creating a merge commit"
+            git merge upstream/dev --no-edit
+          fi
+
+      - name: Push changes
+        run: git push origin dev
