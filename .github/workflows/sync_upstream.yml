@@ -1,0 +1,26 @@
+name: Sync from SimplifyJobs upstream
+
+# Pulls new postings from SimplifyJobs/New-Grad-Positions into this fork's
+# dev branch every 30 minutes, so .github/scripts/listings.json here always
+# has the latest jobs.
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync_upstream
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge upstream dev into fork dev
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh repo sync "${{ github.repository }}" --branch dev
