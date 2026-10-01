@@ -2,111 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Alteryx",
-        "id": "ff724e21-d13d-41d8-960f-1e8a032ad42b",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1770085425,
-        "date_posted": 1770085425,
-        "url": "https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/US---Remote/Software-Engineer_R11780",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alteryx",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "28729da1-fdcf-4664-9130-d45fad6cbd53",
-        "title": "Associate Engineer - Physical Design Engineering",
-        "active": false,
-        "date_updated": 1770084904,
-        "date_posted": 1770084904,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer---Physical-Design-Engineering_R260395",
-        "locations": [
-            "California",
-            "San Jose, CA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Greene Tweed",
-        "id": "1ba2879a-2ea3-4abc-b2f0-66b8d539e442",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1770085146,
-        "date_posted": 1770085146,
-        "url": "https://gtweed.wd1.myworkdayjobs.com/Careers/job/Houston-TX-United-States-of-America/Associate-Product-Manager_R4068-1",
-        "locations": [
-            "Houston, TX",
-            "North Wales, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Greene-Tweed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Colorado School of Mines",
-        "id": "619f470f-66e4-4396-8ab2-d7cba57a44d2",
-        "title": "Assistant Professor or Professor of Practice - AI/Machine Learning",
-        "active": false,
-        "date_updated": 1770084801,
-        "date_posted": 1770084801,
-        "url": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Assistant-Professor-or-Professor-of-Practice--AI-Machine-Learning_JR108102",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Colorado-School-Of-Mines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Blue Origin",
-        "id": "364a0235-1556-4845-b1de-bb3b0965798a",
-        "title": "Autonomous Vehicle AI Engineer 2 Computer Vision and Path Planning",
-        "active": false,
-        "date_updated": 1770086332,
-        "date_posted": 1770086332,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Autonomous-Vehicle-AI-Engineer-II-Computer-Vision-and-Path-Planning_R58724-1",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "SpaceX",
         "id": "11300faa-161b-483b-9520-12054a5957e6",
         "title": "Full Stack Software Engineer - Top Secret Clearance",
@@ -6728,26 +6623,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "DoseSpot",
-        "id": "6ea5ff17-a817-4492-b5d4-defb705704e6",
-        "title": "Product Analyst 2",
-        "active": false,
-        "date_updated": 1770371943,
-        "date_posted": 1770084758,
-        "url": "https://jobs.ashbyhq.com/dosespot/2b869657-335f-4dcf-a09e-06e54a2285ce/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/DoseSpot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -63364,29 +63239,6 @@
         "date_posted": 1773325109,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hudson River Trading",
-        "id": "65d9dfbd-5d39-42b0-988c-dd59701000db",
-        "title": "Software Engineer - Python",
-        "active": false,
-        "date_updated": 1773307996,
-        "date_posted": 1770085762,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013",
-        "locations": [
-            "London, UK",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -306825,7 +306677,7 @@
         "company_name": "ByteDance",
         "id": "dba5405f-12de-4a7e-a7b7-323dd31fc670",
         "title": "Research Engineer Graduate - Seed Infra - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1786505581,
         "date_posted": 1786505447,
         "url": "https://jobs.bytedance.com/en/position/7671034858089040181/detail",
@@ -308993,7 +308845,7 @@
         "company_name": "ByteDance",
         "id": "0f5bb908-9ac8-4a97-b45d-0ad47f7cd13b",
         "title": "Research Engineer Graduate - Seed Infra",
-        "active": true,
+        "active": false,
         "date_updated": 1786584421,
         "date_posted": 1786584312,
         "url": "https://jobs.bytedance.com/en/position/7673256063231854901/detail",
@@ -309013,7 +308865,7 @@
         "company_name": "ByteDance",
         "id": "b1ee273d-a77a-4b83-b8cd-f1ad4cdd4d30",
         "title": "Research Engineer Graduate - Seed Infra",
-        "active": true,
+        "active": false,
         "date_updated": 1786584421,
         "date_posted": 1786584312,
         "url": "https://jobs.bytedance.com/en/position/7673254778614253829/detail",
@@ -335355,7 +335207,7 @@
         "company_name": "Health Services Advisory Group",
         "id": "12a3b7d1-090a-40ac-aa68-6b353cf34dc1",
         "title": "Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787781069,
         "date_posted": 1787780644,
         "url": "https://jobs.lever.co/hsag/2937f26a-3e66-4d42-ba61-c26e5b52f488/apply",
@@ -369934,7 +369786,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a022f5c9-0487-4af6-b1a5-2923cb1bebae",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788907452,
         "date_posted": 1788906158,
         "url": "https://jobs.l3harris.com/job/Richardson-Associate,-Software-Engineer-TX-75080/1427668800/?ats=successfactors",
@@ -380572,7 +380424,7 @@
         "company_name": "Anduril",
         "id": "ca630382-1fea-4112-9b6a-01ce87b4f3ce",
         "title": "Firmware Engineer - Space - Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1789596362,
         "date_posted": 1789596294,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239596007",
@@ -381280,7 +381132,7 @@
         "company_name": "Charles Schwab",
         "id": "5db2a52c-da64-4247-8606-b9a9a8b86075",
         "title": "Senior Risk Analytics and Modeling Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1789607641,
         "date_posted": 1789607243,
         "url": "https://career-schwab.icims.com/jobs/126969/job?mobile=true&needsRedirect=false",
@@ -389475,7 +389327,7 @@
         "company_name": "Apple",
         "id": "d3c2d57b-c7ea-4194-ac33-731c72f64420",
         "title": "Software Engineer - Applied AI",
-        "active": false,
+        "active": true,
         "date_updated": 1790298549,
         "date_posted": 1790298409,
         "url": "https://jobs.apple.com/en-us/details/200684521",
@@ -392613,7 +392465,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -394395,6 +394247,269 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas Sports Academy",
+        "id": "986968af-4a3a-4038-96dc-9caaa8a58066",
+        "title": "Junior AI Software Engineer",
+        "active": true,
+        "date_updated": 1790817495,
+        "date_posted": 1790817425,
+        "url": "https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Sports-Academy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kent",
+        "id": "8141e2d2-391a-4aa8-9e86-fabdb2855350",
+        "title": "Software Engineer - Engineering & Consulting Software Development",
+        "active": true,
+        "date_updated": 1790817370,
+        "date_posted": 1790817269,
+        "url": "https://fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7198",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Kent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "42079b38-2a81-4395-8380-8127f696afaf",
+        "title": "Software Engineer Graduate",
+        "active": true,
+        "date_updated": 1790817142,
+        "date_posted": 1790817111,
+        "url": "https://jobs.bytedance.com/en/position/7689561253011097909/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "7e5f1121-5fb4-4ef7-a71e-727b0e183363",
+        "title": "Cloud Hardware Development Engineer 1 \u2013 Early Career",
+        "active": true,
+        "date_updated": 1790817197,
+        "date_posted": 1790816952,
+        "url": "https://amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027",
+        "locations": [
+            "Austin, TX",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble",
+        "id": "6b963855-e5c3-43d3-a4ce-61cd43b35b2c",
+        "title": "Analytics & Insights Manager",
+        "active": true,
+        "date_updated": 1790816954,
+        "date_posted": 1790726400,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Manager_R000159869",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "8c760c8a-6d74-45b7-9e1d-7a38c47336e4",
+        "title": "Research Associate - Space Photovoltaic Hardware/Device Testing",
+        "active": true,
+        "date_updated": 1790817176,
+        "date_posted": 1790726400,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Research-Associate---Space-Photovoltaic-Hardware-Device-Testing_R016757",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Utah State University",
+        "id": "76668e47-f0e1-4546-b526-9b97a508ff6d",
+        "title": "Student Statistician",
+        "active": true,
+        "date_updated": 1790816954,
+        "date_posted": 1790816711,
+        "url": "https://careers-usu.icims.com/jobs/10774/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Utah-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "9bea948d-dffb-4340-aa5a-3a7fa7ddd92e",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1790835376,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "8ec152ad-60df-44f3-8f06-cdc62ddea548",
+        "title": "Software Engineer - AI Enablement & Engineering Productivity",
+        "active": true,
+        "date_updated": 1790834942,
+        "date_posted": 1790834846,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kyndryl",
+        "id": "b854e2c6-81d3-4144-bb7a-86fcec931fc1",
+        "title": "Data Analyst New Grad - Data Operations Associate",
+        "active": true,
+        "date_updated": 1790835141,
+        "date_posted": 1790726400,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Careers-Consult-Program---Data-Operations-Associate_R-69022-2",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kyndryl",
+        "id": "45323d80-9f3f-4d24-ab2c-353be224433c",
+        "title": "Early Careers Consult Program - Data Operations Associate",
+        "active": true,
+        "date_updated": 1790834942,
+        "date_posted": 1790726400,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Careers-Consult-Program---Data-Operations-Associate_R-69022-1",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "0ee73422-ac94-4f05-898c-8c0a21d20d22",
+        "title": "Data Scientist/Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1790835155,
+        "date_posted": 1790726400,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761",
+        "locations": [
+            "Colorado Springs, CO",
+            "Chantilly, VA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "671ad933-04bb-4e73-a1c2-ea37ce661226",
+        "title": "Associate Electrical Engineer",
+        "active": true,
+        "date_updated": 1790835301,
+        "date_posted": 1790834817,
+        "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Electrical-Engineer-NJ-07014/1435628200/?ats=successfactors",
+        "locations": [
+            "Clifton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
