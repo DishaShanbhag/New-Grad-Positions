@@ -1,149 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Cox",
-        "id": "ec4ddc7e-7d70-4e83-aa53-c80772751c41",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1770258274,
-        "date_posted": 1770258274,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Manager-I_R202672640",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "aa214bba-830c-4d3c-8953-df9b44eff420",
-        "title": "Engineer 1 - Design",
-        "active": false,
-        "date_updated": 1770258027,
-        "date_posted": 1770258027,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I-Design_R2422-25",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zip",
-        "id": "d9afd19e-fc7d-4360-8228-887866b2e5e2",
-        "title": "Software Engineer New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1770257626,
-        "date_posted": 1770257626,
-        "url": "https://jobs.ashbyhq.com/zip/b261b0d9-bebd-4da1-a3b9-7a674f0616ac/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Zip",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8c074af1-7783-4703-af75-efcb7ae2ee06",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770257516,
-        "date_posted": 1770257516,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048274",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WEC Energy Group",
-        "id": "35b74db2-e36c-4812-99c7-a79750139d8c",
-        "title": "Gas System Associate Analyst",
-        "active": false,
-        "date_updated": 1770257445,
-        "date_posted": 1770257445,
-        "url": "https://careers.wecenergygroup.com/Michigan_Gas_Utilities/job/Coldwater-Gas-System-Associate-Analyst-MI-49036/1362161600/?ats=successfactors",
-        "locations": [
-            "Marshall, MI",
-            "Muskegon, MI",
-            "Dundee, MI",
-            "Kalamazoo, MI",
-            "South Bend, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "F5",
-        "id": "ff11b388-80d0-499f-88f1-08453f978f8e",
-        "title": "Engineer 2",
-        "active": false,
-        "date_updated": 1770260322,
-        "date_posted": 1770260322,
-        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Engineer-II_RP1036377",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/F5",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "F5",
-        "id": "f5e288a6-0116-494f-88a8-2bc158f5f67e",
-        "title": "Engineer 1 - Software",
-        "active": false,
-        "date_updated": 1770260323,
-        "date_posted": 1770260323,
-        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Engineer-I--Software_RP1036380",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/F5",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "acd70588-9715-4973-b0a2-d557bd80e54e",
@@ -183889,7 +183746,7 @@
         "company_name": "Tesla",
         "id": "b09d7306-4475-4ca5-be47-5b9888b848ec",
         "title": "Data Labeler",
-        "active": true,
+        "active": false,
         "date_updated": 1780813230,
         "date_posted": 1780812847,
         "url": "https://www.tesla.com/careers/search/job/260509",
@@ -300502,7 +300359,7 @@
         "company_name": "Reliance",
         "id": "46ef73eb-48ac-4b4f-b57e-f88f4c490e1d",
         "title": "AI Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786486332,
         "date_posted": 1786486148,
         "url": "https://careers.reliance.com/jobs/3330?icims=1",
@@ -311675,7 +311532,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -318112,7 +317969,7 @@
         "company_name": "Deeter Analytics",
         "id": "c5c96698-e25e-4209-8af4-5886495e5a80",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787128021,
         "date_posted": 1787127895,
         "url": "https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true",
@@ -365338,7 +365195,7 @@
         "company_name": "CTG",
         "id": "2be6f759-96be-4dc7-a468-cf02a80bdef5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788907071,
         "date_posted": 1788905963,
         "url": "https://careers.ctg.com/jobs/17557?icims=1",
@@ -373941,7 +373798,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "5e57ccae-7277-4587-8079-77b7bae18c57",
         "title": "Graduate Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789510819,
         "date_posted": 1789430400,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Data-Scientist-I_R118695",
@@ -373962,7 +373819,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "767cfec3-b8cd-4c09-9e3f-fd524457f140",
         "title": "Software Engineer 1 - Aspire Graduate Program",
-        "active": true,
+        "active": false,
         "date_updated": 1789510835,
         "date_posted": 1789430400,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694",
@@ -377005,7 +376862,7 @@
         "company_name": "Cencora",
         "id": "8dca32ab-4b7f-48e9-8ec8-73200f0e9799",
         "title": "AI Enablement Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789655405,
         "date_posted": 1789603200,
         "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Philadelphia/AI-Enablement-Engineer_R266644-1",
@@ -377305,7 +377162,7 @@
         "company_name": "Noblis",
         "id": "625f51dc-1a95-4ae9-9f96-09e55251c768",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789655221,
         "date_posted": 1789654865,
         "url": "https://careers.noblis.org/jobs/27850?icims=1",
@@ -380888,7 +380745,7 @@
         "company_name": "Manulife Financial",
         "id": "bbb7ffee-7519-4698-9d5b-a1c61f89feb6",
         "title": "Graduate Multi-Asset Credit Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790030341,
         "date_posted": 1789948800,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/London-UK/Graduate-Multi-Asset-Credit-Analyst_JR26091233",
@@ -384273,7 +384130,7 @@
         "company_name": "Man Group",
         "id": "74f5d04c-5dd5-4838-8c22-2cef8a0d48c0",
         "title": "Technology Rotational Program - Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790289901,
         "date_posted": 1790289330,
         "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101",
@@ -387242,7 +387099,7 @@
         "company_name": "Northrop Grumman",
         "id": "43cec23f-151f-42b8-b94c-23b40da351c5",
         "title": "Associate Software Engineer / Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790721542,
         "date_posted": 1790640000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10253287",
@@ -387590,7 +387447,7 @@
         "company_name": "RTX",
         "id": "9b9221a8-5e69-4660-8063-88f4d8725352",
         "title": "Embedded Software Security Engineer 1 - S3E",
-        "active": true,
+        "active": false,
         "date_updated": 1790721456,
         "date_posted": 1790640000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692",
@@ -391844,5 +391701,69 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parasail",
+        "id": "1b4b4857-a0e7-40ae-911b-03e1528c4c9f",
+        "title": "Software Engineer New Grad - Forward Deploy",
+        "active": true,
+        "date_updated": 1790990393,
+        "date_posted": 1790990235,
+        "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parasail",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Koch Industries",
+        "id": "3f4f0a33-7d23-4062-ad6b-47a6d5194539",
+        "title": "AI Solutions Engineer",
+        "active": true,
+        "date_updated": 1790990281,
+        "date_posted": 1790990232,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/195477",
+        "locations": [
+            "Rochester Hills, MI",
+            "Lisle, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interdigital",
+        "id": "865bf71e-5c86-49eb-a0c8-9f04b6ed9aeb",
+        "title": "Research Engineer - 6G AI-Enabled Systems and Testbeds",
+        "active": true,
+        "date_updated": 1790990281,
+        "date_posted": 1790899200,
+        "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---6G-AI-Enabled-Systems-and-Testbeds_REQ26-1144",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Interdigital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
