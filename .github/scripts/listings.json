@@ -213696,7 +213696,7 @@
         "company_name": "Confido",
         "id": "00142abd-9aec-4fca-9c8d-b46f6fb762d2",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1782944653,
         "date_posted": 1782943792,
         "url": "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application",
@@ -220683,7 +220683,7 @@
         "company_name": "Citadel",
         "id": "410b28b6-b357-4b72-9480-bad83701b4cb",
         "title": "Software Engineer \u2013 University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783318143,
         "date_posted": 1783318138,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
@@ -392782,5 +392782,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "ca920373-6255-46b3-8083-3db9533be2df",
+        "title": "Senior Staff Software Engineer",
+        "active": true,
+        "date_updated": 1791126561,
+        "date_posted": 1783161315,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Sr-Staff-Engineer-Software_JR-017053",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
