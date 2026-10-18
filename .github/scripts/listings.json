@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aptiv",
-        "id": "6b7370a3-0424-4079-b851-38fe61391ae4",
-        "title": "Associate Engineer - Board Support Packages",
-        "active": false,
-        "date_updated": 1771595222,
-        "date_posted": 1771595222,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Board-Support-Packages_J000694075",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "DellFor Technologies",
         "id": "b95085e2-8361-490f-ab61-0871fb589712",
@@ -286634,7 +286614,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -348161,7 +348141,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7302fc5e-a4cc-4e0f-b7cf-b34d10f1d5be",
         "title": "Associate Product Manager - APM Program",
-        "active": true,
+        "active": false,
         "date_updated": 1789467658,
         "date_posted": 1789430400,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554-1",
@@ -387035,7 +387015,7 @@
         "company_name": "Cisco",
         "id": "5788b6dc-21b4-4d4c-b5fb-b9627bebc50f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792104121,
         "date_posted": 1792103978,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271",
