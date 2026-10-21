@@ -208674,7 +208674,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -235247,7 +235247,7 @@
         "company_name": "Blue Cross of Idaho",
         "id": "95049413-d496-4bfa-9d12-e16f926251e5",
         "title": "AI Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784931560,
         "date_posted": 1784851200,
         "url": "https://bcidaho.wd5.myworkdayjobs.com/BCI/job/Meridian---Main/AI-Engineer-I_R3397",
@@ -241433,7 +241433,7 @@
         "company_name": "Freddie Mac",
         "id": "d3680ba2-c14d-4200-9aec-fbfcf6ab8214",
         "title": "Capital Markets Analyst - Quantitative",
-        "active": true,
+        "active": false,
         "date_updated": 1785278881,
         "date_posted": 1785196800,
         "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Analyst---Quantitative_JR17437",
@@ -265398,7 +265398,7 @@
         "company_name": "Belvedere Trading",
         "id": "f4b05847-d015-43a2-b07f-482144c9580f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786141060,
         "date_posted": 1786140614,
         "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply",
@@ -304110,7 +304110,7 @@
         "company_name": "Global Lending Services",
         "id": "a7dd04c6-c880-41f3-9f62-e1a48155eb37",
         "title": "Data Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1787848381,
         "date_posted": 1787848359,
         "url": "https://jobs.lever.co/glsllc/bf8d09cd-8858-4ce4-98c1-5b685b5bf238/apply",
@@ -314484,7 +314484,7 @@
         "company_name": "L3Harris Technologies",
         "id": "4b199fc4-bfd3-4425-aa91-79a9a9ea0882",
         "title": "Associate \u2013 Integration / Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788403147,
         "date_posted": 1787648489,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Integration-Test-Engineer-FL-32905/1422832600/?ats=successfactors",
@@ -341410,7 +341410,7 @@
         "company_name": "Qualcomm",
         "id": "f658e592-7705-4abf-9fec-d62ac98b287e",
         "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1789171226,
         "date_posted": 1789170905,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721063770",
@@ -354372,7 +354372,7 @@
         "company_name": "Trace3",
         "id": "bcc577ef-5958-4321-821d-9405a58357c8",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790203501,
         "date_posted": 1789166051,
         "url": "https://job-boards.greenhouse.io/trace3/jobs/8197955",
@@ -367827,7 +367827,7 @@
         "company_name": "Truveta",
         "id": "f104d45c-5e40-468d-82c6-3e03c55ad7f0",
         "title": "Software Engineer - Clinical Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1791241113,
         "date_posted": 1791240867,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/6217329004",
@@ -381906,7 +381906,7 @@
         "company_name": "Boeing",
         "id": "6b9b13bc-c64f-47ce-84e0-4b98e4dec369",
         "title": "B1 Software Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792017814,
         "date_posted": 1791936000,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-1",
@@ -385558,7 +385558,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "ebc9825c-1eff-4957-846a-a6c77915283b",
         "title": "VLSI Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792391808,
         "date_posted": 1792281600,
         "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1",
@@ -387981,7 +387981,7 @@
         "company_name": "Blockhouse",
         "id": "f85253cb-dca3-4867-ab55-198869bfb119",
         "title": "RL Environments Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792534327,
         "date_posted": 1792534210,
         "url": "https://jobs.ashbyhq.com/blockhouse/f0e609b1-5237-407d-afe2-281b824ec25c/application?embed=true",
@@ -388479,5 +388479,126 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellmark",
+        "id": "b3dc0fe4-e07d-4a79-ac44-eddaf4d4abd0",
+        "title": "Data Wrangler",
+        "active": true,
+        "date_updated": 1792547154,
+        "date_posted": 1792547007,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156421724",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "26d84509-a16b-4556-99f7-18329fa61191",
+        "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+        "active": true,
+        "date_updated": 1792546803,
+        "date_posted": 1792546696,
+        "url": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axos Bank",
+        "id": "e7be217f-fe8f-47ee-a0f5-bb01d5ad5782",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1792546731,
+        "date_posted": 1792454400,
+        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Engineer_JR5390",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axos-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "ce53063b-a92d-4f3e-baf5-40cb5117b00f",
+        "title": "ASIC Engineer - ASIC Engineering",
+        "active": true,
+        "date_updated": 1792563875,
+        "date_posted": 1792563765,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721650326",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Storable",
+        "id": "b066e806-d56d-4915-a26e-bd7c3461144f",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1792563304,
+        "date_posted": 1792563304,
+        "url": "https://www.storable.com/about-us/culture/careers/?gh_jid=6230578004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Storable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rhoda AI",
+        "id": "38f6c73a-c860-438a-b2f5-f67b9e0e1d53",
+        "title": "Software Engineer - Rhoda Platform",
+        "active": true,
+        "date_updated": 1792563304,
+        "date_posted": 1792563163,
+        "url": "https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application?embed=true",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rhoda-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
