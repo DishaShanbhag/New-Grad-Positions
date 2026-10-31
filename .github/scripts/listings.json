@@ -1,173 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Roljobs Technology Services",
-        "id": "8249b725-1a4b-4e2c-8f51-41af20fa20a0",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1772705374,
-        "date_posted": 1772705374,
-        "url": "https://jobs.smartrecruiters.com/RA2/82680831",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Roljobs-Technology-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e5905fff-5eaa-4100-85f9-c123e42e858f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772708169,
-        "date_posted": 1772708169,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052017",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5c0f27cb-60c1-4f36-8877-af63562809d6",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772708168,
-        "date_posted": 1772708168,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051819",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fa606b5a-c55f-42be-8c0c-0a85e7642b7e",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772708076,
-        "date_posted": 1772708076,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051816",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d700d982-2214-4e52-ade4-1e98106e1b9d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772707928,
-        "date_posted": 1772707928,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052064",
-        "locations": [
-            "Dartford District, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "95f00817-142a-49f8-bdb2-3de4838d7c7c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772707939,
-        "date_posted": 1772707939,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052018",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "12822553-058a-42c2-bebf-ccedd3da1b1b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772707947,
-        "date_posted": 1772707947,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051822",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The University of Edinburgh",
-        "id": "13fa321b-5186-4bf6-ac9c-fd96afa2414e",
-        "title": "Postdoctoral Research Associate - Geological Hydrogen Storage",
-        "active": false,
-        "date_updated": 1772707853,
-        "date_posted": 1772707853,
-        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13864",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Barclays",
-        "id": "a36f5417-77b5-402c-b02b-e9bf0cb016f1",
-        "title": "Quantitative Analytics Associate Graduate Programme",
-        "active": false,
-        "date_updated": 1772709091,
-        "date_posted": 1772709091,
-        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Analytics-Associate-Graduate-Programme-2026-London_JR-0000070826",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Barclays",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Best Buy",
         "id": "9c908116-0ca7-44bb-ba4e-eeeeed73121a",
@@ -242956,7 +242789,7 @@
         "company_name": "xAI",
         "id": "8035433a-5a4c-497b-92a1-2440c1b386d6",
         "title": "Software Engineer - Evals",
-        "active": true,
+        "active": false,
         "date_updated": 1786142341,
         "date_posted": 1784759779,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
@@ -259422,7 +259255,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -259803,7 +259636,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -289935,7 +289768,7 @@
         "company_name": "RTX",
         "id": "8aad8b51-42bb-4359-b771-09d8fa3d9060",
         "title": "Digital ASIC/FPGA Design Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788310048,
         "date_posted": 1788220800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Digital-ASIC-FPGA-Design-Engineer-I--Onsite-_01870687",
@@ -291337,7 +291170,7 @@
         "company_name": "RTX",
         "id": "32ecf2c9-7c90-4e62-8314-ba3518805f67",
         "title": "FPGA Electrical Engineer 1 - Multi-Product Power & Digital",
-        "active": true,
+        "active": false,
         "date_updated": 1788408727,
         "date_posted": 1788220800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Electrical-Engineer-I--Onsite-_01871238",
@@ -305594,7 +305427,7 @@
         "company_name": "RTX",
         "id": "4dfd9951-225c-4f0f-b849-ffe42c3224c2",
         "title": "Digital Hardware Design Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788490608,
         "date_posted": 1788393600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Digital-Hardware-Design-Electrical-Engineer-I--Onsite-_01872576",
@@ -312224,7 +312057,7 @@
         "company_name": "RTX",
         "id": "fb6ff7fb-84f6-4a8d-9f91-27a711110f10",
         "title": "FPGA Electrical Design Engineer 1 - Effector Digital Products Department",
-        "active": true,
+        "active": false,
         "date_updated": 1788907588,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-I--Onsite-_01872978",
@@ -337363,7 +337196,7 @@
         "company_name": "RTX",
         "id": "9ec626e4-7181-4117-9116-7e27adc84cfe",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1790893813,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-II--Onsite-_01866754",
@@ -350189,7 +350022,7 @@
         "company_name": "Dyna Robotics",
         "id": "7fe90a2a-0330-4ae9-9898-f398dc5bad9e",
         "title": "Data Annotation Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1791108549,
         "date_posted": 1778882969,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/080a2b88-f724-4585-8d16-2d4839a1d563/application?embed=true",
@@ -367531,7 +367364,7 @@
         "company_name": "Microsoft",
         "id": "b2d3f826-e728-49fc-9506-ec264bc24aaa",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792717770,
         "date_posted": 1792717644,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041624",
@@ -370598,7 +370431,7 @@
         "company_name": "Boeing",
         "id": "840f362d-e7a1-4739-9961-fc1eeddaf55b",
         "title": "ASIC/FPGA Verification Engineer \u2013 Or Lead - Associate - Experienced",
-        "active": true,
+        "active": false,
         "date_updated": 1792760944,
         "date_posted": 1791853841,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380-1",
@@ -375161,7 +374994,7 @@
         "company_name": "Super Micro Computer",
         "id": "9095c00d-1e37-4392-a8e2-d8bf9cd759dd",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1793063882,
         "date_posted": 1793063832,
         "url": "https://jobs.supermicro.com/job/Houston-Service-Technician-Texa/1443918000/?ats=successfactors",
@@ -378582,7 +378415,7 @@
         "company_name": "Cisco",
         "id": "47045f8c-0272-44ed-a512-99cd081fe928",
         "title": "Data Science Analyst 1 - United States GSC/SCT ETR",
-        "active": true,
+        "active": false,
         "date_updated": 1793197309,
         "date_posted": 1793145600,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Science-Analyst-I--Full-Time----United-States-GSC-SCT-ETR_2028889-1",
@@ -381295,7 +381128,7 @@
         "company_name": "Cisco",
         "id": "94962866-c898-459f-8b53-e0bfc4dcc25e",
         "title": "Data Science Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793285167,
         "date_posted": 1793285067,
         "url": "https://careers.cisco.com/global/en/job/2028889",
@@ -385654,6 +385487,93 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "b059b2c4-f2e1-4658-a9f6-bb084462f46f",
+        "title": "ASIC Verification Engineer New Grad",
+        "active": true,
+        "date_updated": 1793446936,
+        "date_posted": 1790553600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "dc6e6af1-c573-4952-aef5-9791f94fcd44",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1793452511,
+        "date_posted": 1793404800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
+        "locations": [
+            "Hollywood, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bristol Myers Squibb",
+        "id": "0e9101fd-5e85-4911-b076-604e6c2fc6ef",
+        "title": "Associate Engineer - Analytical AI Engineering",
+        "active": true,
+        "date_updated": 1793452330,
+        "date_posted": 1793404800,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verisk",
+        "id": "f8132bd9-b6f0-40a3-8199-b5d339caac61",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793456112,
+        "date_posted": 1793455981,
+        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5093",
+        "locations": [
+            "London, UK",
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Verisk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
