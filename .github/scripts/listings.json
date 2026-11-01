@@ -1,255 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Integrity",
-        "id": "0413491f-2810-4e44-81ad-ed0c0fbf950b",
-        "title": "Data Integrity Specialist",
-        "active": false,
-        "date_updated": 1772763748,
-        "date_posted": 1772763748,
-        "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/St-Albans-WV/Data-Integrity-Specialist_JR3709",
-        "locations": [
-            "Charleston, WV"
-        ],
-        "company_url": "https://simplify.jobs/c/Integrity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SpryPoint",
-        "id": "8a5792ca-e91d-46de-baa4-1081901c9e94",
-        "title": "Data Conversion Engineer",
-        "active": false,
-        "date_updated": 1772763248,
-        "date_posted": 1772763248,
-        "url": "https://jobs.lever.co/sprypointservices/ea33fe62-4334-4eac-9b05-9eac7f6312cc/apply",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/SpryPoint",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Patreon",
-        "id": "07249fc3-2757-4803-8ad1-eb54cb009f11",
-        "title": "Fullstack Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1772763429,
-        "date_posted": 1772763429,
-        "url": "https://jobs.ashbyhq.com/patreon/7302033c-d884-4e13-b6d4-74fcb16fe08a/application",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Patreon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Yes Energy",
-        "id": "bc84ca20-b0e0-4895-9996-c1718c150dd2",
-        "title": "Data Validation Analyst 1",
-        "active": false,
-        "date_updated": 1772763176,
-        "date_posted": 1772763176,
-        "url": "https://job-boards.greenhouse.io/yesenergy/jobs/5143205008",
-        "locations": [
-            "San Dimas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Yes-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b5c26322-c2db-4dd4-84e9-71e15855c6b2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772762915,
-        "date_posted": 1772762915,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052167",
-        "locations": [
-            "Watford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a2f2e52a-2723-4f24-b6a7-80bbd157ee06",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772762909,
-        "date_posted": 1772762909,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052166",
-        "locations": [
-            "Beaconsfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Melaleuca",
-        "id": "b11438ad-6646-499b-aec1-a51b48d26c34",
-        "title": "Software Engineer 1 - Business Intelligence",
-        "active": false,
-        "date_updated": 1772762776,
-        "date_posted": 1772762776,
-        "url": "https://careers-melaleuca.icims.com/jobs/9067/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Idaho Falls, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Melaleuca",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Corebridge Financial",
-        "id": "61d868bf-57dc-4559-9950-e804948e72f4",
-        "title": "Associate Analyst - Data and Analytics Platforms",
-        "active": false,
-        "date_updated": 1772762666,
-        "date_posted": 1772762666,
-        "url": "https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/TX-Houston/Associate-Analyst---Data-and-Analytics-Platforms_JR2600301",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Corebridge-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Theodo",
-        "id": "6125e236-e946-4c45-b55e-264a5e5bb993",
-        "title": "Full Stack Engineer",
-        "active": false,
-        "date_updated": 1772781961,
-        "date_posted": 1772781961,
-        "url": "https://jobs.lever.co/theodo/1592b48f-9207-46f2-908e-d835cc6121ad/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Theodo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "289119e0-e5e7-4a88-936e-b7e7663589a3",
-        "title": "Associate Product Manager - TikTok Safety Product",
-        "active": false,
-        "date_updated": 1772781674,
-        "date_posted": 1772781674,
-        "url": "https://lifeattiktok.com/search/7613569281146947893",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Tangram Interiors",
-        "id": "5fa68bb3-f394-40f1-9531-d6304c794886",
-        "title": "AV Technician - Tangram Technology",
-        "active": false,
-        "date_updated": 1772780940,
-        "date_posted": 1772780940,
-        "url": "https://jobs.lever.co/tangraminteriors/c4999340-67da-4a68-99ec-da99f555abfc/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Tangram-Interiors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Shield AI",
-        "id": "c50d5a57-9e14-4d42-a68c-8a1c1dbed02d",
-        "title": "Staff Technician - Hardware Test",
-        "active": false,
-        "date_updated": 1772782443,
-        "date_posted": 1772782443,
-        "url": "https://jobs.lever.co/shieldai/f7fc236b-08c3-428d-970f-a6b7819abc0f/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Information Lab",
-        "id": "12429cea-aabe-4312-8402-1ea9487e3e76",
-        "title": "The Data School - Data Analyst/Consultant",
-        "active": false,
-        "date_updated": 1772782410,
-        "date_posted": 1772782410,
-        "url": "https://jobs.lever.co/theinformationlab/5c48a12b-6906-43d7-bd95-947b562c8701/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Information-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "JP Morgan Chase",
         "id": "eda6153a-f4c0-4cd7-84ac-50eedad60c6b",
@@ -3943,27 +3694,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "0e15b170-b4f5-4ec5-9853-287bd475215a",
-        "title": "Software Engineer 1 - AI Native",
-        "active": false,
-        "date_updated": 1773099412,
-        "date_posted": 1772763403,
-        "url": "https://jobs.intuit.com/job/mountain-view/swe1-software-engineer-ai-native/27595/92435672352",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -13695,24 +13425,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Information Lab",
-        "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
-        "title": "The Data School",
-        "active": false,
-        "date_updated": 1773477735,
-        "date_posted": 1772781089,
-        "url": "https://jobs.lever.co/theinformationlab/eaa64bb6-30b9-44bf-a490-3a2ea9754c13/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Information-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -266295,7 +266007,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": true,
+        "active": false,
         "date_updated": 1787215748,
         "date_posted": 1787186853,
         "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
@@ -286360,7 +286072,7 @@
         "company_name": "American Express",
         "id": "4ff9d14d-db78-44fa-9f49-1bee0e771f4e",
         "title": "Senior Analyst - Data & Analytics - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287743,
         "date_posted": 1788287453,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013283",
@@ -286380,7 +286092,7 @@
         "company_name": "American Express",
         "id": "0acf515c-4b43-46d7-955e-8fe59617605f",
         "title": "Software Engineer 1 Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287754,
         "date_posted": 1788287453,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259",
@@ -286400,7 +286112,7 @@
         "company_name": "American Express",
         "id": "042c934f-3d19-4615-bcc7-f10fe3a00bea",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788287744,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254",
@@ -286420,7 +286132,7 @@
         "company_name": "American Express",
         "id": "76174b12-915d-4e52-89b3-df3db4eca70d",
         "title": "Software Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287753,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013264",
@@ -286440,7 +286152,7 @@
         "company_name": "American Express",
         "id": "5d90e270-511f-4fcd-9c2f-410f252cea8b",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287748,
         "date_posted": 1788287451,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013256",
@@ -286460,7 +286172,7 @@
         "company_name": "American Express",
         "id": "50450ca8-ee7c-4620-b0bc-1cc5d8fe2776",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287744,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013252",
@@ -286480,7 +286192,7 @@
         "company_name": "American Express",
         "id": "495c0ef2-3ea4-40b7-82f5-2dfb86a9fb7b",
         "title": "Data Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287748,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013289",
@@ -286500,7 +286212,7 @@
         "company_name": "American Express",
         "id": "3bc45e91-ebb8-439d-a0f7-0e51c40fa3e0",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287743,
         "date_posted": 1788287453,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013258",
@@ -286520,7 +286232,7 @@
         "company_name": "American Express",
         "id": "0646eda8-3850-44d3-a96a-03c80fee29bd",
         "title": "Data Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287742,
         "date_posted": 1788287453,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286",
@@ -286540,7 +286252,7 @@
         "company_name": "American Express",
         "id": "c75373db-769e-41df-b9a7-8f685cb4ba61",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287740,
         "date_posted": 1788287451,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013253",
@@ -286560,7 +286272,7 @@
         "company_name": "American Express",
         "id": "4e934259-8418-443f-a72f-a6ced78a2fb5",
         "title": "Data & Analytics Analyst - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287740,
         "date_posted": 1788287453,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013281",
@@ -286580,7 +286292,7 @@
         "company_name": "American Express",
         "id": "20b23b0e-0297-4641-ae32-6db0fea0aef5",
         "title": "AI Engineer 1 - Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1788287740,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255",
@@ -287812,7 +287524,7 @@
         "company_name": "American Express",
         "id": "fb2d6e8e-096b-4a82-ba4b-de20d7deb231",
         "title": "Digital Product Management Senior Associate - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310500,
         "date_posted": 1788310292,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012958",
@@ -287832,7 +287544,7 @@
         "company_name": "American Express",
         "id": "a6080c21-a844-48d7-bcc9-8a240ddd19e1",
         "title": "Software Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310503,
         "date_posted": 1788310288,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
@@ -287852,7 +287564,7 @@
         "company_name": "American Express",
         "id": "3ac23f64-3bc0-4c25-b393-ae5479c685a1",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310497,
         "date_posted": 1788310293,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987",
@@ -287892,7 +287604,7 @@
         "company_name": "American Express",
         "id": "b68cfa9c-6e6f-46da-9cd5-85acee5875fb",
         "title": "Software Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310508,
         "date_posted": 1788310292,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012944",
@@ -287912,7 +287624,7 @@
         "company_name": "American Express",
         "id": "8fe18f9d-3000-46c6-9efd-07b60d9fe92c",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310498,
         "date_posted": 1788310293,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012985",
@@ -287932,7 +287644,7 @@
         "company_name": "American Express",
         "id": "a05f7ff0-b31a-4040-8bf7-7524f288eb14",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310497,
         "date_posted": 1788310293,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982",
@@ -287952,7 +287664,7 @@
         "company_name": "American Express",
         "id": "520857cc-c405-4d92-892b-d0074625e1f7",
         "title": "Software Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310286,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012945",
@@ -287972,7 +287684,7 @@
         "company_name": "American Express",
         "id": "482d2483-2739-4860-9f2a-b5903674a731",
         "title": "Software Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310286,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012940",
@@ -287992,7 +287704,7 @@
         "company_name": "American Express",
         "id": "091d9015-503c-4fbd-8891-afd1def65679",
         "title": "Data Analytics Analyst - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310294,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013097",
@@ -288012,7 +287724,7 @@
         "company_name": "American Express",
         "id": "ca0f0f67-5fd4-4b63-8b73-b7415915a10e",
         "title": "Digital Product Management Associate - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310506,
         "date_posted": 1788310295,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012956",
@@ -288052,7 +287764,7 @@
         "company_name": "American Express",
         "id": "40c50ca0-ce27-4a13-8cc4-4633271be5ef",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310294,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012988",
@@ -288092,7 +287804,7 @@
         "company_name": "American Express",
         "id": "144e5a99-3727-49aa-be27-39b13c2cec06",
         "title": "Software Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310292,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801",
@@ -289574,7 +289286,7 @@
         "company_name": "Textron",
         "id": "e8fd7d7b-8da0-4843-887d-84dd52a59847",
         "title": "Business Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788408727,
         "date_posted": 1788314489,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343151",
@@ -290695,7 +290407,7 @@
         "company_name": "American Express",
         "id": "2dff76dd-866e-4d97-aa95-afcf1a0b28d8",
         "title": "Senior Analyst - 2027 Data & Analytics - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788415138,
         "date_posted": 1788401695,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013102",
@@ -311945,7 +311657,7 @@
         "company_name": "Barclays",
         "id": "f612cb13-7962-4424-bf9a-37050a197d91",
         "title": "Quantitative Analytics Associate Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1788994305,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-Glasgow_JR-0000129392",
@@ -312005,7 +311717,7 @@
         "company_name": "Barclays",
         "id": "586167ce-912f-44b5-a84b-e767d2ba013e",
         "title": "Quantitative Analytics Associate Graduate - Risk Quantitative Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1788994314,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-London_JR-0000129352",
@@ -323177,7 +322889,7 @@
         "company_name": "ASSA ABLOY",
         "id": "47a96922-379a-4165-bf1d-40ed463a6341",
         "title": "Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789684029,
         "date_posted": 1789683268,
         "url": "https://assaabloy.jobs2web.com/job/Berlin-Associate-Engineer-CT-06037/1438188233/?ats=successfactors",
@@ -328385,7 +328097,7 @@
         "company_name": "American Express",
         "id": "0d70db17-2454-4f28-83cb-a1fdeb2cfc92",
         "title": "Senior Analyst - Data & Analytics - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1790203567,
         "date_posted": 1790202016,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013683",
@@ -328445,7 +328157,7 @@
         "company_name": "American Express",
         "id": "fb9d1bc5-399e-4cf2-a654-382ad437f727",
         "title": "Data & Analytics Analyst - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1790203561,
         "date_posted": 1790202017,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679",
@@ -336881,7 +336593,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "4e2c335d-0005-44f6-911c-441d5ac21ff6",
         "title": "Graduate Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790979907,
         "date_posted": 1790899200,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Belfast-10-Mays-Meadow/Graduate-Product-Engineer-Opportunities-2027_R35761",
@@ -345897,7 +345609,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3ea1faca-1c2d-49fa-8403-39b099dfa7cb",
         "title": "Senior Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791326021,
         "date_posted": 1791324592,
         "url": "https://jobs.l3harris.com/job/Richardson-Senior-Associate,-Software-Engineer-TX-75080/1437497300/?ats=successfactors",
@@ -368520,7 +368232,7 @@
         "company_name": "Barclays",
         "id": "999c4ce7-c078-4671-af20-af4781f19526",
         "title": "Technology Developer Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1792759402,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431",
@@ -368538,7 +368250,7 @@
         "company_name": "Barclays",
         "id": "1be31250-7c2e-4be6-8e3d-c3c5b791655a",
         "title": "Technology Developer Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1792759402,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443",
@@ -382615,7 +382327,7 @@
         "company_name": "ServiceTitan",
         "id": "fa428a84-cc4e-4bd1-a258-d20af2ff146c",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793400663,
         "date_posted": 1793318400,
         "url": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391",
@@ -383977,5 +383689,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "61e56b29-9b9f-481a-926e-c653983f3ff8",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1793515903,
+        "date_posted": 1793491200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "aa10db51-ae8e-4b11-8902-b7b5f4cf6d96",
+        "title": "Product Owner - Digital Plant",
+        "active": true,
+        "date_updated": 1793514603,
+        "date_posted": 1793514602,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-PRODUCT-OWNER-DIGITAL-PLANT-Virg/1446303400/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "076e4d7b-c105-4b49-866b-5ac1f12ec7b3",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793514682,
+        "date_posted": 1793514591,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
