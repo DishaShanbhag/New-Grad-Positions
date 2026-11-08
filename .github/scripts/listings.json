@@ -1,206 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b6508c2e-172b-4a63-a77f-70271776bc76",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773364367,
-        "date_posted": 1773364367,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053281",
-        "locations": [
-            "Brandon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Light & Wonder",
-        "id": "fab46542-1288-45d7-923c-833c66726e00",
-        "title": "Junior AI Developer",
-        "active": false,
-        "date_updated": 1773363959,
-        "date_posted": 1773363959,
-        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Junior-AI-Developer_R321746",
-        "locations": [
-            "Las Vegas, NV",
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lincoln Financial",
-        "id": "970bb27c-c8d0-4f83-a692-cc2b7b5ea11e",
-        "title": "Associate \u2013 Application Development ETP",
-        "active": false,
-        "date_updated": 1773363993,
-        "date_posted": 1773363993,
-        "url": "https://jobs.lincolnfinancial.com/job/Radnor-Associate,-Application-Development-ETP-PA/1372816000/?ats=successfactors",
-        "locations": [
-            "Villanova, PA",
-            "Charlotte, NC",
-            "Greensboro, NC",
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Lincoln-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Diamondback Energy",
-        "id": "6400a028-812b-40eb-a29a-0bfeab646061",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1773363912,
-        "date_posted": 1773363912,
-        "url": "https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Oklahoma-City-OK/Data-Engineer_R100568",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Diamondback-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "fddcab17-1476-4ab7-9b29-71e8a89c74d1",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1773365526,
-        "date_posted": 1773365526,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R165849-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TransUnion",
-        "id": "f5aedcf5-ba18-4e08-bf0d-5e2c7fcc4232",
-        "title": "Developer",
-        "active": false,
-        "date_updated": 1773365264,
-        "date_posted": 1773365264,
-        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Developer_19037951",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransUnion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Red Hat",
-        "id": "11ac21c2-ee16-4ac1-82e8-2ac13b522337",
-        "title": "Associate Product Manager - Ansible Automation Platform",
-        "active": false,
-        "date_updated": 1773365473,
-        "date_posted": 1773365473,
-        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Product-Manager-Ansible-Automation-Platform_R-055461-1",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Hat",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Deloitte",
-        "id": "db1399e9-c656-4a1c-8046-29a0af37cfca",
-        "title": "Associate GenAI Engineer",
-        "active": false,
-        "date_updated": 1773364669,
-        "date_posted": 1773364669,
-        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Associate-GenAI-Engineer/326869",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Deloitte",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Secureframe",
-        "id": "3f94d282-4523-424c-8450-0e34874128ab",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1773364658,
-        "date_posted": 1773364658,
-        "url": "https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Secureframe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "18c1c491-a1ba-478c-8aa9-95ac4d98370e",
-        "title": "Early College Talent - Failure Analysis Engineer",
-        "active": false,
-        "date_updated": 1773364547,
-        "date_posted": 1773364547,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114478120",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "4e3d822b-3407-4d92-be03-3d1b812cb4da",
@@ -217,46 +17,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TransUnion",
-        "id": "a0e74b8d-688e-4230-b7d1-b3c1a5521d61",
-        "title": "Developer",
-        "active": false,
-        "date_updated": 1773366865,
-        "date_posted": 1773366865,
-        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Developer_19038021",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransUnion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "27c3c5db-66a5-4d74-a0aa-47aa321436fd",
-        "title": "Field Service Engineer 1",
-        "active": false,
-        "date_updated": 1773366660,
-        "date_posted": 1773366660,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Toledo--OH_R4037719-1",
-        "locations": [
-            "Toledo, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -44143,29 +43903,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Cotiviti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "SS&C",
-        "id": "feaa7ea3-be0a-478a-a3d7-a4d3b79f6f55",
-        "title": "Private Markets Senior Product Associate",
-        "active": false,
-        "date_updated": 1775986190,
-        "date_posted": 1773365367,
-        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Chicago-IL/Private-Markets---Senior-Product-Associate--Hybrid--US-Only-_R41559",
-        "locations": [
-            "Boston, MA",
-            "South Orange, NJ",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SSC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -247127,7 +246864,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -339233,7 +338970,7 @@
         "company_name": "Goldman Sachs",
         "id": "efd12c2b-ee8c-4336-b12d-d2cfad76be41",
         "title": "Quantitative Strategist - Investment Strategy Group - SQAA Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791556201,
         "date_posted": 1791555824,
         "url": "https://higher.gs.com/roles/185943",
@@ -381218,5 +380955,42 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Perplexity AI",
+        "id": "72f871b3-7dc6-4dd8-9772-c6e0268eb857",
+        "title": "Member of Technical Staff - Software Engineer - AI Policy and Strategic Initiatives",
+        "active": true,
+        "date_updated": 1794095408,
+        "date_posted": 1794009600,
+        "url": "https://jobs.ashbyhq.com/perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9/application?embed=true",
+        "locations": [
+            "Washington, DC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/PerplexityAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Artificial Analysis",
+        "id": "6c6b37b8-2259-4edd-ae65-128df2b447ea",
+        "title": "Robotics Research Assistant",
+        "active": true,
+        "date_updated": 1794095286,
+        "date_posted": 1794009600,
+        "url": "https://jobs.ashbyhq.com/artificialanalysis/45f1b5ed-b508-4a4e-8f5f-fdaacb1bac8f/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Artificial-Analysis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
